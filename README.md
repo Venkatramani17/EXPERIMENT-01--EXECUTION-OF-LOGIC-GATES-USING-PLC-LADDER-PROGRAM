@@ -1,11 +1,11 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
- # DATE 
+ # NAME : R VENKATRAMANI
+ # REGISTER NUMBER : 212225240182
+ # DEPARTMENT : AIML
+ # YEAR : 2nd Year
+ # DATE : 17.07.2026
 
  
 # Aim:
@@ -80,7 +80,14 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
-
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/bdd4595e-28f3-4195-bf39-35ad35ed8288" />
+<img width="1595" height="893" alt="image" src="https://github.com/user-attachments/assets/6c645f00-a2e6-4a77-8984-52e0788c6625" />
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/205f3478-36d6-461f-8c54-04c9116fcf11" />
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/e7e1d6d5-7a28-41bc-9be0-5c06af8c4c44" />
+<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/12990b9f-a8e7-4f2c-b4a3-1c86e9a42f7f" />
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/4052355f-6df6-4e41-970b-4b64a9d9a572" />
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/3a9d9401-99b6-4501-987c-3abb7e99c494" />
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/b9f6d1a5-b2d9-450c-9c03-f51c742a5fe1" />
 
 #Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
